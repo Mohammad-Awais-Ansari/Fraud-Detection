@@ -1,5 +1,10 @@
 # Fraud Detection Prediction App
 
+
+## Note:- first you must have to dowload the this AIML Dataset for the process because of this data set our machine learns how the prediction is going through a  machine learning. After downloading the dataset you must have to paste the data where is your folder create of this project.
+## Link for downloading the data set :- https://drive.google.com/file/d/1RUaOmxjlft9Sgo7k7K6fMvyDYG64pgiE/view?usp=drive_link
+
+
 This project is a **Machine Learning + Streamlit web application** that predicts whether a transaction is **fraudulent or not** based on the transaction details provided by the user.
 
 ---
